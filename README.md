@@ -1,3 +1,29 @@
+Beta 0.97
+=========
+9-18-2016
+---------
+Lots of great polishing stuff happening to the overall game experience here. Traversing the full game is really coming together. 
+
+* Issue 301: new fall respawn sound
+* Issue 302: new islands music
+* Issue 310: toggle FPS controls bound to controller button
+* Issue 313: burst needs to awaken palm trees for Islands level
+* Issue 314: refactor global controls scripting
+* Issue 317: gamepad controlled options screen
+* Issue 318: options available on pause menu
+* Issue 319: reformat login.js
+* Issue 321: refactor mouse/keys controls
+* Issue 322: refactor all controller controls
+* Issue 323: parented checkpoint support for moving respawn platforms
+* Issue 324: level timer display for testing purposes only
+* Issue 325: play control persists when jumping
+* Issue 326: respawn on movers if checkpoint is placed on one
+* Issue 327: forest1 start block issue fixed
+* Issue 328: consolidate controller button UI display code
+* Issue 330: powers need to re-enable upon respawn after falling from within a disruptor
+* Issue 332: display time on world map as MIN:SEC
+* Issue 333: update Clouds 4 level
+
 Beta 0.9
 ========
 8-21-2016

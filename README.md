@@ -1,3 +1,32 @@
+Beta 1.0
+========
+10-2-2016
+---------
+Just a few minor tweaks away and a handful of content away from a fully featured RC. Closed Beta testing coming soon. Stay tuned for an official announcement in the coming weeks!
+
+* Issue 274: outfit upgrades per world
+* Issue 276: Owls should not activate when within Disruptor
+* Issue 311: Xbox one controller support for Mac
+* Issue 334: disable islands in hub for beta build
+* Issue 335: left/right arrows on hub world
+* Issue 336: up/down arrows on hub world only if Forest has been completed
+* Issue 337: realms other than Forest start with intro cutscene when launched from Hub world
+* Issue 338: stub cutscenes: f4_hub, f6_end, g0_intro, g3_hub, g6_end, c0_intro, c3_hub, c6_end
+* Issue 339: check at end of appropriate levels if all others are done and respond accordingly at realm end
+* Issue 340: update clouds5 level
+* Issue 341: if continuing, load hub from main menu
+* Issue 342: remove small G water bounce force
+* Issue 343: initial cutscene art for f4_hub, f6_end, g0_intro, g3_hub, g6_end, c0_intro, c3_hub, c6_end
+* Issue 344: updated cutscene music for Forest realm
+* Issue 345: updated cutscene music for Clouds realm
+* Issue 346: updated cutscene music for Glacier realm
+* Issue 347: updated cutscene music for Islands realm
+* Issue 349: hub world ui update
+* Issue 350: hub world sky color changes based on world selection
+* Issue 351: main menu console
+* Issue 353: level play console
+* Issue 354: Clouds 6 level update
+
 Beta 0.97
 =========
 9-18-2016

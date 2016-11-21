@@ -1,3 +1,29 @@
+Beta 1.0c3
+========
+11-18-2016
+---------
+Lots of work went in to the id@xbox submission and the Bamer's Rhapsody 3 build. Many small issues cleaned up and we are ready for more content. Also, we recieved a lot of great feedback from the GR3 attendees that has added some new tickets for the next build.
+
+* Issue 348: hub level music
+* Issue 355: available outfit change with button press
+* Issue 356: update forest wordbubbles
+* Issue 357: update Islands player model
+* Issue 358: available outfit display by realm on hub on hub world
+* Issue 359: applied and available outfit display on 50 notes pickup in play GUI
+* Issue 361: ps4 controller trigger controlled camera zoom
+* Issue 362: xbone controller trigger controlled camera zoom
+* Issue 363: xb360 controller trigger controlled camera zoom
+* Issue 364: update cutscene images
+* Issue 365: end loads beta hub if in beta mode
+* Issue 366: beta hub shows correct level progression items
+* Issue 371: id@xbox build
+* Issue 372: update splash screens for Gamers Rhapsody
+* Issue 373: disable mouse cursor on splash
+* Issue 374: disable cursor on main menu
+* Issue 375: disable mouse cursor on cutscenes
+* Issue 376: GR3 build
+* Issue 377: update main menu console commands
+
 Beta 1.0
 ========
 10-2-2016

@@ -2,7 +2,7 @@ Beta 1.0c3
 ========
 11-18-2016
 ---------
-Lots of work went in to the id@xbox submission and the Bamer's Rhapsody 3 build. Many small issues cleaned up and we are ready for more content. Also, we recieved a lot of great feedback from the GR3 attendees that has added some new tickets for the next build.
+Lots of work went in to the id@xbox submission and the Gamer's Rhapsody 3 build. Many small issues cleaned up and we are ready for more content. Also, we recieved a lot of great feedback from the GR3 attendees that has added some new tickets for the next build. Note: Newt One won "Best Visuals" at Gamer's Rhapsody this year!
 
 * Issue 348: hub level music
 * Issue 355: available outfit change with button press

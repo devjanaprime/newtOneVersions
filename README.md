@@ -331,7 +331,7 @@ Alpha 0.9
 
 Alpha 0.81d
 ===========
-10-24-2016
+10-24-2015
 ----------
 
 Whole new camera system! Native support for XBox 360 and Dualshock4 controllers with autodetect!
@@ -355,7 +355,7 @@ Whole new camera system! Native support for XBox 360 and Dualshock4 controllers 
 
 Alpha 0.8
 =========
-10-11-2016
+10-11-2015
 ----------
 
 3 new difficulty levels. When you fall now in Easy or normal, you’ll respawn where you were just before the fall. No longer will you have to start at the very beginning of the level – unless you are playing on “Hard”. in “Easy” more you’ll start each level with Float and Burst. In “Normal” you’ll start without the powers, but will keep them once found.
@@ -370,7 +370,7 @@ NThanks to everyone for checking out the super early alpha. we got some great fe
 
 Alpha 0.78c
 ===========
-10-5-2016
+10-5-2015
 ---------
 
 3 complete levels for alpha testing. Some art and sound is not final and things may change

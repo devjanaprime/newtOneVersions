@@ -4,6 +4,30 @@ Beta 1.1a2
 ---------
 This is the first build for our closed beta! Four levels from Forest, one from Clouds, and one from Glacier. 
 
+* Issue 379: additional Forest checkpoints
+* Issue 380: additional Sky checkpoints
+* Issue 381: additional Glacier checkpoints
+* Issue 383: add untouched objects search to console
+* Issue 384: burst and wand awaken all objects
+* Issue 385: new respawn effect
+* Issue 386: object pulse when awakened
+* Issue 387: new activated tree texture on Glaciers (old looks too similar to grey)
+* Issue 388: updated burst enabled idicator
+* Issue 389: pulse scale fix for scale out objects
+* Issue 390: update Forest levels
+* Issue 391: update Clouds levels
+* Issue 392: fix forest 1 camera
+* Issue 393: fix misplaced wordbubbles
+* Issue 394: update glaciers 1-3 levels
+* Issue 395: fix newt scaling issue for parented mover objects pulsing
+* Issue 396: update burst fx
+* Issue 397: remove burst on texture swap in lieu of burst charge fx
+* Issue 398: add wand off command to console
+* Issue 399: limit scale pulsing to trees, bushes, and flowers
+* Issue 400: do not apply old burst enabled textures to character upon outfit upgrade with burst enabled
+* Issue 401: update Glacier5
+* Issue 402: incorporate Beta Feeback Form
+* Issue 403: fix partial scale of scale out objects when awoken via burst
 
 Beta 1.0c3
 ========

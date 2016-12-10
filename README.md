@@ -1,6 +1,6 @@
 Beta 1.1a2
 ========
-11-18-2016
+12-9-2016
 ---------
 This is the first build for our closed beta! Four levels from Forest, one from Clouds, and one from Glacier. 
 

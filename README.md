@@ -1,3 +1,20 @@
+Beta 1.1b1
+========
+12-18-2016
+--------
+The final build of 2016 and the 2nd Testable Beta. 2017, here we come!
+
+* Issue 378: 100 percent achieved stinger sound
+* Issue 404: update glaciers levels
+* Issue 405: update clouds levels
+* Issue 406: update xbox360 support for mac
+* Issue 407: add PS3 controller support for mac
+* Issue 408: add fireballs to lava hexas
+* Issue 409: bust eliminates fireballs
+* Issue 410: update Islands world textures
+* Issue 413: re-enable mouse/keys controls
+* Issue 415: ability to restart game - resetting progress and settings
+
 Beta 1.1a2
 ========
 12-9-2016

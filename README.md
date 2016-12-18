@@ -10,10 +10,11 @@ The final build of 2016 and the 2nd Testable Beta. 2017, here we come!
 * Issue 406: update xbox360 support for mac
 * Issue 407: add PS3 controller support for mac
 * Issue 408: add fireballs to lava hexas
-* Issue 409: bust eliminates fireballs
+* Issue 409: burst eliminates fireballs
 * Issue 410: update Islands world textures
 * Issue 413: re-enable mouse/keys controls
 * Issue 415: ability to restart game - resetting progress and settings
+* Issue 416: update wordbubbles for mouse/keys
 
 Beta 1.1a2
 ========

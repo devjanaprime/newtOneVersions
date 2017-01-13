@@ -1,3 +1,43 @@
+Beta 1.2
+========
+1/12/2017
+--------
+The first build of 2017!!!
+
+* Issue: 417: controller type preferences should persist between levels 
+* Issue: 418: update glacier wand fx 
+* Issue: 419: update forest wand fx 
+* Issue: 420: update clouds wand fx 
+* Issue: 422: update version control workflow 
+* Issue: 423: optimize sky cylinder shader 
+* Issue: 425: update ovrlord interface 
+* Issue: 440: god camera for marketing - accessible through console 
+* Issue: 441: islands 1 level update 
+* Issue: 442: islands 2 level update 
+* Issue: 449: story outline finalized 
+* Issue: 461: Hub world island prefab setup 
+* Issue: 466: hub world prefab setup 
+* Issue: 485: update mac XBox360 controller support 
+* Issue: 488: trees and bushes excluded from camera auto-adjust 
+* Issue: 490: chart out full story flow 
+* Issue: 491: story flow prototype app v1 
+* Issue: 493: soundtrack outline and overview 
+* Issue: 494: add passcode to ovrlord 
+* Issue: 497: Rotating-timed-platforms on either X,Y,Z 
+* Issue: 499: forest 4 update 
+* Issue: 500: forest 5 update 
+* Issue: 501: forest 6 update 
+* Issue: 502: forest 1 hub prefab 
+* Issue: 503: forest 2 hub prefab 
+* Issue: 504: forest 3 hub prefab 
+* Issue: 505: forest 4 hub prefab 
+* Issue: 515: glacier 2 hub prefab 
+* Issue: 520: islands 1 hub prefab 
+* Issue: 526: pendulum script 
+* Issue: 527: burst freezes lava word bubbles 
+* Issue: 528: islands realm welcome cutscene images 
+* Issue: 530: negative angle support on flippers 
+
 Beta 1.1b1
 ========
 12-18-2016

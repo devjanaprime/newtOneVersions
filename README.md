@@ -1,3 +1,49 @@
+Beta 1.3
+========
+2/18/2017
+---------
+This was a big one! Not only did it get the build on to the XBox One Development Kit, but it was also the build that we showed at MinneDemo. Addtionally, it has all the levels init, although not all are playable at this time.
+
+* Issue: 101: wand is trying to activate already awakened Owls 
+* Issue: 419: update forest wand fx 
+* Issue: 421: update islands wand fx 
+* Issue: 436: Jan testable beta 1 
+* Issue: 437: Jan testable beta 2 
+* Issue: 443: islands 3 level update 
+* Issue: 444: islands 4 level update 
+* Issue: 492: new note pickup sound 
+* Issue: 506: forest 5 hub prefab 
+* Issue: 507: forest 6 hub prefab 
+* Issue: 508: clouds 1 hub prefab 
+* Issue: 514: glacier 1 hub prefab 
+* Issue: 516: glacier 3 hub prefab 
+* Issue: 517: glacier 4 hub prefab 
+* Issue: 519: glacier 6 hub prefab 
+* Issue: 531: bring to Glitch playTest 
+* Issue: 533: wand affects lava bubbles 
+* Issue: 535: record sax guitar for end of Glacier song 
+* Issue: 537: owls can be parented to movers 
+* Issue: 538: palm tree fronds should not affect camera 
+* Issue: 539: preliminary mix: main theme, soundtrack version 
+* Issue: 540: preliminary mix: Forest, soundtrack version 
+* Issue: 542: preliminary mix: hub world, soundtrack version 
+* Issue: 544: preliminary mix: islands, soundtrack version 
+* Issue: 551: wand and burst must also affect collision meshes tagges as camIgnore 
+* Issue: 552: lava bubbles dissolve when below their start position 
+* Issue: 553: parented burst pickup for Islands 5 movers 
+* Issue: 554: XB1 test project build 
+* Issue: 556: bridge build that disables XBOne issues on mac 
+* Issue: 557: individual burst effects spawned based on burst power 
+* Issue: 559: sun shafts adapted for XBox One build 
+* Issue: 560: vortex adapted for XBox One build 
+* Issue: 561: color correction curves adapted for XBox One build 
+* Issue: 562: edge detection adapted for XBox One build 
+* Issue: 563: vignetting and chromatic aberration adapted for XBox One build 
+* Issue: 564: disruption audio adapted for XBox One build 
+* Issue: 565: all scene cameras updated for post effects updates 
+* Issue: 567: MinneDemo build ready 
+* Issue: 568: MinneDemo cut scene images 
+
 Beta 1.2
 ========
 1/12/2017

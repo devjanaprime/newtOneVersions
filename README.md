@@ -43,6 +43,12 @@ This was a big one! Not only did it get the build on to the XBox One Development
 * Issue: 565: all scene cameras updated for post effects updates 
 * Issue: 567: MinneDemo build ready 
 * Issue: 568: MinneDemo cut scene images 
+* Issue: 570: disable camera collision ray cast for disruptor base 
+* Issue: 571: fix spaz platforms in clouds1 
+* Issue: 572: remove demo Curno from clouds 2 
+* Issue: 573: replace World Map button with Main Menu on end of level menu 
+* Issue: 574: replace World Map button with Main Menu on pause menu 
+* Issue: 575: standardize wand trails in Clouds Realm 
 
 Beta 1.2
 ========

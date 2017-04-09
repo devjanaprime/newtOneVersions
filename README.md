@@ -1,3 +1,64 @@
+Beta 1.5
+========
+4/6/2017
+---------
+So much has happened since the last version. This one is starting to really show how the actual game will feel!
+
+* Issue: 435: add marketing images to website 
+* Issue: 439: lava bubble sounds 
+* Issue: 454: leveled celebration update 
+* Issue: 457: islands cut scene images 
+* Issue: 460: finalize wordbubbles 
+* Issue: 465: landing dust poof on jump landing 
+* Issue: 467: clouds cutscene images 
+* Issue: 470: story cutscene images determined 
+* Issue: 495: supported platform/controls page for website 
+* Issue: 534: Logitech F310 controller support on Mac 
+* Issue: 617: first pass at freed elder word bubble in hub (Clouds) 
+* Issue: 411: when the last played realm is different than the selected realm on continue from main menu the music is incorrect 
+* Issue: 438: clouds bounce sound 
+* Issue: 455: forest cutscene images 
+* Issue: 456: parrot chain 
+* Issue: 459: story script draft 1.0 
+* Issue: 471: feb update vid 
+* Issue: 480: xbox 1 dev kit initial build 
+* Issue: 510: clouds 3 hub prefab 
+* Issue: 511: clouds 4 hub prefab 
+* Issue: 512: clouds 5 hub prefab 
+* Issue: 513: clouds 6 hub prefab 
+* Issue: 576: remove altar from Glacier4 
+* Issue: 577: optimize Clouds notes textures 
+* Issue: 578: optimize Forest notes textures 
+* Issue: 579: optimize Glacier notes textures 
+* Issue: 580: optimize Islands notes textures 
+* Issue: 589: forest levels music optimized 
+* Issue: 590: clouds levels music optimized 
+* Issue: 591: islands levels music optimized 
+* Issue: 592: glacier levels music optimized 
+* Issue: 593: test hub world - Forest and Clouds only 
+* Issue: 594: minnebar build 
+* Issue: 595: animated clouds elder model 
+* Issue: 596: animated glacier elder model 
+* Issue: 597: animated islands elder model 
+* Issue: 599: falls on map world are handled gracefully 
+* Issue: 600: no wand on map world 
+* Issue: 601: level stats shown on map world when close to a level starter 
+* Issue: 602: forest wand shows up when wand is found on map world 
+* Issue: 603: multiple levels can reveal a level in map world 
+* Issue: 604: pause menu in map world updated 
+* Issue: 605: minnebar arcade build 
+* Issue: 606: minnebar talk build 
+* Issue: 607: add sound output display to console commands 
+* Issue: 608: firs pass of forest hub world content 
+* Issue: 609: story ver 2.0 finalized 
+* Issue: 610: adjust hub level object existence logic as needed for wand and special multiple level cases 
+* Issue: 611: first pass at destructible disruptor shards to free an elder (Clouds) 
+* Issue: 612: streamline scripts for hub world Clouds objects 
+* Issue: 613: streamline scripts for hub world Forest objects 
+* Issue: 616: realms coming soon notifications in hub 
+* Issue: 618: linear progression through Forest realm on the Hub 
+* Issue: 619: update ovrlord log rendering 
+
 Beta 1.3
 ========
 2/18/2017

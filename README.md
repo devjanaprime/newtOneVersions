@@ -1,3 +1,58 @@
+Beta 1.6
+========
+5/3/2017
+---------
+IndieCade submission and MinneCade build. Lots of updates - specifically to the cutscenes and map world. 
+
+* Issue: 454: levelend celebration update 
+* Issue: 467: clouds cutscene images 
+* Issue: 469: story script 2.0 
+* Issue: 518: glacier 5 hub prefab 
+* Issue: 521: islands 2 hub prefab 
+* Issue: 522: islands 3 hub prefab 
+* Issue: 524: islands 5 hub prefab 
+* Issue: 525: islands 6 hub prefab 
+* Issue: 617: first pass at freed elder word bubble in hub (Clouds) 
+* Issue: 620: update website 
+* Issue: 621: add do press kit to website 
+* Issue: 622: move map level stats to the bottom of page 
+* Issue: 623: replace parrot level decal with 3D parrot 
+* Issue: 624: implement map level stat crowns 
+* Issue: 625: update small crown on map level 
+* Issue: 626: investigate rendering text on large scale out crowns 
+* Issue: 627: re-setup all level stat crowns on map 
+* Issue: 628: forest cut scene images 
+* Issue: 629: skip button for all cut scenes 
+* Issue: 631: 8 screencaps, logo pngs, additional event images for website 
+* Issue: 632: move controls toggling to pause menu when in game 
+* Issue: 633: fix continue game button on main menu 
+* Issue: 634: remove level stats GUI interface 
+* Issue: 635: first draft of stats interface for the large map crowns 
+* Issue: 636: implement new intro cut scene images 
+* Issue: 637: support many more cut scene images in cut scene handler script 
+* Issue: 638: impossible to overlook no supported controller message on main menu 
+* Issue: 639: updated cutscene button image placement 
+* Issue: 640: indiecade submission build 
+* Issue: 641: update notes interface to be more dynamic 
+* Issue: 642: apply updated notes interface to all levels 
+* Issue: 643: implement updated percentage GUI per realm 
+* Issue: 644: update forest flower textures 
+* Issue: 645: update outfit update FX 
+* Issue: 646: snow blowers should not show on hub until Forest 6 is completed 
+* Issue: 647: camera controls on screen indicator 
+* Issue: 648: camera intersecting with invisible object in map world... prob. should not 
+* Issue: 649: rework forest end logic for other world unlocks 
+* Issue: 650: add end of beta message when Clouds Elder saved 
+* Issue: 651: no double Curnos on map world 
+* Issue: 652: bind camera zoom to triggers and bumpers 
+* Issue: 653: make large crowns more readable 
+* Issue: 660: sky should change on map world when entering a new realm 
+* Issue: 662: zero out legacy control inputs on level load 
+* Issue: 663: gracefully handle wand levels when starting with a wand 
+* Issue: 664: Forest1 Sky is pitch black. Stars not behaving correctly 
+* Issue: 667: wrong cut scenes around clouds3 
+* Issue: 668: update map world respawn logic 
+
 Beta 1.5
 ========
 4/6/2017

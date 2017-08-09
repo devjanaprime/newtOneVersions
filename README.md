@@ -1,3 +1,131 @@
+Beta 1.75
+===
+8/8/2017
+---
+
+2D Con 2017 build. Almost content and feature complete!
+
+* Issue: 426: Achievements infrastructure 
+* Issue: 428: Update main menu 
+* Issue: 447: achievement icon template 
+* Issue: 457: islands cut scene images 
+* Issue: 465: landing dust poof on jump landing 
+* Issue: 468: glacier cut scene images 
+* Issue: 477: full achievement list 
+* Issue: 478: achievement icons 
+* Issue: 479: language selection 
+* Issue: 614: streamline scripts for hub world Glacier objects 
+* Issue: 615: streamline scripts for hub world Islands objects 
+* Issue: 657: GlitchCon presentation and MinneCade showing 
+* Issue: 658: Glacier map world 
+* Issue: 659: Islands map world 
+* Issue: 661: map world beautification pass 
+* Issue: 669: compensate for odd FPS occasional overclocking 
+* Issue: 670: update press kits 
+* Issue: 671: add talks page to website 
+* Issue: 674: Confirm cutscenes skips 
+* Issue: 675: Forest Realm clouds should not use the Forest clouds texture 
+* Issue: 676: optimize clouds 
+* Issue: 678: april may update video 
+* Issue: 679: normalize and standardize touch sound volumes across all realms and levels 
+* Issue: 680: remove extraneous map message volumes 
+* Issue: 681: glacier map respawn positions 
+* Issue: 682: islands map respawn positions 
+* Issue: 684: add owls to forest realm in map 
+* Issue: 685: add owls to clouds realm in map 
+* Issue: 686: add owls to glaciers realm in map 
+* Issue: 687: level start sound and audio transition in map 
+* Issue: 688: optimize hub prefabs in map 
+* Issue: 689: add owls to islands realm in map 
+* Issue: 690: forest 1 hub should react to forest 1 not forest 2 
+* Issue: 691: islands hub elder 
+* Issue: 692: glacier hub elder 
+* Issue: 693: glacier elder can be freed 
+* Issue: 694: islands elder can be freed 
+* Issue: 695: update elder disruptor effect and behavior 
+* Issue: 696: finalize poster 
+* Issue: 697: June update video 
+* Issue: 698: update website 
+* Issue: 699: handle already awakened elders gracefully 
+* Issue: 700: level achievements working with stub images 
+* Issue: 701: realm achievements working with stub images 
+* Issue: 702: game achievements working with stub images 
+* Issue: 703: final level achievements images 
+* Issue: 704: final realm achievements images 
+* Issue: 705: final game achievements images 
+* Issue: 706: update english Forest cutscene images 
+* Issue: 708: update english Glacier cutscene images 
+* Issue: 709: update english Islands cutscene images 
+* Issue: 711: place button background proceedurally in cutscenes 
+* Issue: 712: update english clouds cutscene images 
+* Issue: 713: add Badges button to map world pause menu 
+* Issue: 714: 1st pass at Badges interface for map world 
+* Issue: 715: parrot achievements not saving correctly 
+* Issue: 716: movers should be not grey at level load 
+* Issue: 717: implement new main menu image 
+* Issue: 718: fix 100 percent value with prewoken path movers 
+* Issue: 719: Update world badges interface 
+* Issue: 720: Implement realm-specific parrot textures 
+* Issue: 722: parrot textures by realm 
+* Issue: 723: clouds 2 100 percent check 
+* Issue: 724: cutscene handler able to support game ending 
+* Issue: 726: fix parrot badges logic in Islands 
+* Issue: 727: collected wands show in the map world when recovered 
+* Issue: 728: seeker lava fireballs 
+* Issue: 729: display realm logo on badges overlay 
+* Issue: 730: update badges realm interface 
+* Issue: 731: update floating trails 
+* Issue: 732: jump poofs for each realm 
+* Issue: 733: landing poofs for each realm 
+* Issue: 734: audio for wings on each realm 
+* Issue: 735: update glacier flower model 
+* Issue: 736: update clouds flower 
+* Issue: 737: update show blowers 
+* Issue: 738: update button images - cutscene handler 
+* Issue: 739: update button images - main menu 
+* Issue: 740: update button images - in level pause 
+* Issue: 741: localizations backbone 
+* Issue: 742: localization implementation - cutscene handler 
+* Issue: 743: localization implementation - main menu 
+* Issue: 744: localization implementation - in level pause 
+* Issue: 745: localization implementation - cutscenes: Forest 
+* Issue: 746: localization implementation - cutscenes: Clouds 
+* Issue: 747: localization implementation - cutscenes: Glacier 
+* Issue: 748: localization implementation - cutscenes: Islands 
+* Issue: 749: parrot realm outfit 
+* Issue: 750: parrot realm textures 
+* Issue: 752: multiple parrots for parrot realm - 4 
+* Issue: 753: checkpoints should not be activated by wand 
+* Issue: 754: notes should not be pickeded by wand 
+* Issue: 755: parrots should not be rescued by wand 
+* Issue: 756: implement level badge signs 
+* Issue: 757: translation backbone for cutscenes 
+* Issue: 758: initial localization for Forest cutscenes 
+* Issue: 759: initial localization for Clouds cutscenes 
+* Issue: 760: initial localization for Islands cutscenes 
+* Issue: 761: initial localization for Glacier cutscenes 
+* Issue: 762: test Unity 2017.1 
+* Issue: 763: parrot world portal only exists if all parrots are rescued 
+* Issue: 764: achievement localizations 
+* Issue: 765: localization strings for in-level badge toast 
+* Issue: 766: text readouts for in-game achievement toast 
+* Issue: 767: update hubBridge logic 
+* Issue: 768: update levelEnd logic 
+* Issue: 769: implement controller-based cheat codes for login screen 
+* Issue: 770: implement controller based cheat codes for in-level play 
+* Issue: 771: implement new wordbubble frame texture 
+* Issue: 772: consolidate word bubble textures into single resources folder 
+* Issue: 773: word bubble localization, use en if none specifies 
+* Issue: 774: implement post Forest 1 parrot intro cutscene 
+* Issue: 775: update Forest Intro cutscene 
+* Issue: 777: remove slides 4 and 5 from Clouds pre wand 
+* Issue: 779: parrots still missing cutscene 
+* Issue: 780: post parrot world cutscene 
+* Issue: 781: pre parrot world cutscene and logic 
+* Issue: 783: update true ending - remove slides 30 and 31 
+* Issue: 784: preParrotWorld cutscene 
+* Issue: 785: update camera controls image 
+
 Beta 1.6
 ========
 5/3/2017

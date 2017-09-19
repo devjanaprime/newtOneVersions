@@ -1,3 +1,105 @@
+Beta 1.9c3
+===
+9/18/2017
+---
+
+Close to RC1...
+
+* Issue: 487: credits interface 
+* Issue: 721: Allow choosing controller config if none auto-detected 
+* Issue: 751: parrot realm music 
+* Issue: 778: not all wands ending cutscene logic 
+* Issue: 782: 2D Con build 
+* Issue: 786: implement new float feather 
+* Issue: 787: update Islands3 
+* Issue: 788: cutscene EN pass 
+* Issue: 789: fix clouds totem inconsistent hidden geometry 
+* Issue: 790: implement speaker dependent cutscene text colors 
+* Issue: 791: parrot world level 
+* Issue: 793: set all GUI images to clamp 
+* Issue: 794: stop main theme on level transition after a done level 
+* Issue: 795: randomized loading screens without text 
+* Issue: 796: add reset to last checkpoint button 
+* Issue: 797: additional checkpoints pass - Forest 
+* Issue: 798: additional checkpoints pass - Clouds 
+* Issue: 801: proper cutscenes play after a Elders are awoken 
+* Issue: 802: parrots still missing cutscene applied 
+* Issue: 803: after Glacier Elder freed logic to handle wands found correctly 
+* Issue: 804: Clouds 5 rebalancing 
+* Issue: 807: parrot clouds textures 
+* Issue: 808: parrot water hexas 
+* Issue: 809: l1 button not showing for language selection with Dual Shock 4 controller 
+* Issue: 810: Forest 2 starter totem size 
+* Issue: 811: bumper images for badges UI 
+* Issue: 812: notes counter texture should change based on realm 
+* Issue: 813: islands elder eyes textures 
+* Issue: 814: clouds3 level starter collision fix 
+* Issue: 815: cutscene text pass1 
+* Issue: 816: cutscene text pass2 
+* Issue: 817: glacier 6 move 4 owls 
+* Issue: 820: update skip cutscene GUI 
+* Issue: 821: update wordbubbles 
+* Issue: 822: wand pickups should not persist once collected 
+* Issue: 823: update lava group B settings for Islands 
+* Issue: 824: parrot realm trees should not randomize 
+* Issue: 825: ES world badge localizations 
+* Issue: 826: glacier wordbubble changes based on cloud and islands elder 
+* Issue: 827: glacier realm unlocked by clouds and islands elders, not levels 
+* Issue: 828: show level badges at level start 
+* Issue: 829: level end only shows up when all parrots are rescued 
+* Issue: 830: parrots lead to level end on Parrot World 
+* Issue: 831: preload outfit textures 
+* Issue: 832: add personal best time display to level start 
+* Issue: 833: only show level start badges display if replaying a level 
+* Issue: 834: collision box for level achievement signs on map 
+* Issue: 835: adjust jump and float forces to compensate for Parrot Realm physics 
+* Issue: 836: parrot world badges 
+* Issue: 837: parrot world sign 
+* Issue: 838: text order on badges 
+* Issue: 839: add left and right arrows for badges 
+* Issue: 840: parrot world progress faces 
+* Issue: 843: display level achievements on pause menu 
+* Issue: 844: islands awake badge should not show glacier badge image 
+* Issue: 845: only show realm intro cut scenes if level not already played 
+* Issue: 846: do not re-show parrot world intro is already played 
+* Issue: 847: pause badges are not displaying correctly 
+* Issue: 848: replace fireball explosion prefab 
+* Issue: 849: level end times are reporting zeros 
+* Issue: 850: glacier elder awake cutscene is not playing music 
+* Issue: 851: elder wakeup sound 
+* Issue: 852: show elder freed achievement during elder freed cutscenes 
+* Issue: 853: fix slide count on after glacier awoken cutscene 
+* Issue: 854: glacier 5 map starter object collision is off 
+* Issue: 855: in-level wand badge text is not showing 
+* Issue: 856: credits music - variation on main theme 
+* Issue: 857: world badges GUI - realm icons should not overlap with text 
+* Issue: 858: parrot cutscene music 
+* Issue: 859: If you go from in-game to then main menu and back to playing, it will always automatically set the sensitivity for the controller back to the maximum setting?
+* Issue: 860: move parrot world badge to cutscene handler script 
+* Issue: 861: apply parrot cutscene music to 1st parrot appearance 
+* Issue: 862: add all elders check and badge display to each elder cutscene handler script 
+* Issue: 863: late beta optimization pass 
+* Issue: 865: reduce maximum random size for bushes 
+* Issue: 866: fix level end for parrot realm 
+* Issue: 867: new note pickup sound 
+* Issue: 869: if skipping an elder freed cutscene prir to 5 seconds apply appropriate elder freed badge unlock logic 
+* Issue: 871: update forest 1 to add rescue button 
+* Issue: 872: remove parrots hinting at ending functionality in when all rescued in Parrot world 
+* Issue: 873: implement new control screens 
+* Issue: 874: error when using drums on top of Parrot Tree 
+* Issue: 875: drums for parrot world 
+* Issue: 876: float sound for parrot world 
+* Issue: 878: parrots sometimes fly away from Newt like dumb asses...wtf 
+* Issue: 879: fix paused time issue 
+* Issue: 880: clouds cylinder 1 not properly detected on start of Islands 2 and causes a texture error 
+* Issue: 881: Q in keyboard controls bound to Curno help 
+* Issue: 882: bind E to change outfit 
+* Issue: 883: update keys controls word bubbles 
+* Issue: 884: spacebar float fx should stop when released 
+* Issue: 885: enable outfit changing in Map 
+* Issue: 887: mouse/keys interface for cutscenes 
+* Issue: 888: mouse/keys pause menu GUI update 
+
 Beta 1.75
 ===
 8/8/2017

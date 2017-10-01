@@ -1,5 +1,8 @@
 Release Candidate 1.0
 ===
+
+Spanish translations now working!
+
 9/30/2017
 ---
 

@@ -1,3 +1,34 @@
+Release Candidate 1.0
+===
+9/30/2017
+---
+
+* Issue: 870: end credits screen 
+* Issue: 877: additional checkpoints pass - Parrot level 
+* Issue: 891: optimize water textures 
+* Issue: 892: revisit badges texture optimization 
+* Issue: 893: optimize jump detection 
+* Issue: 894: Rite of Passage achievement logic 
+* Issue: 895: All Elders badge logic revision 
+* Issue: 896: All Outfits badge unlock display update 
+* Issue: 898: all parrots logic update 
+* Issue: 900: realm outfits badge display update 
+* Issue: 901: optimization pass - map world 
+* Issue: 902: optimization pass - water hexas in Islands realm 
+* Issue: 903: update ES translations: Forest Cutscenes 
+* Issue: 904: update ES translations: Islands cutscenes 
+* Issue: 905: update ES translations: Clouds cutscenes 
+* Issue: 906: update ES translations: Glacier cutscenes 
+* Issue: 907: update ES translations: badges 
+* Issue: 908: update ES translations: map 
+* Issue: 909: update options screen background on main menu 
+* Issue: 910: enough notes in Forest to unlock all outfits 
+* Issue: 913: update ES translations: parrot world 
+* Issue: 914: use bounce force not jump force on disruptor touch 
+* Issue: 915: iterate jump physics 
+* Issue: 916: shorten Elder cutscene start time 
+* Issue: 920: optimize snowflake texture 
+
 Beta 1.9c3
 ===
 9/18/2017

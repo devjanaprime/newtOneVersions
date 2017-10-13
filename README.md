@@ -1,3 +1,53 @@
+Release Candidate 1.2
+===
+
+Updates from after IndieCade 2017
+---
+
+* Issue: 483: pc RC1 
+* Issue: 484: mac RC1 
+* Issue: 870: end credits screen 
+* Issue: 877: additional checkpoints pass - Parrot level 
+* Issue: 889: level end mouse/keys interface update 
+* Issue: 891: optimize water textures 
+* Issue: 892: revisit badges texture optimization 
+* Issue: 893: optimize jump detection 
+* Issue: 894: Rite of Passage achievement logic 
+* Issue: 895: All Elders badge logic revision 
+* Issue: 896: All Outfits badge unlock display update 
+* Issue: 897: badges GUI mouse/keys interface update 
+* Issue: 898: all parrots logic update 
+* Issue: 900: realm outfits badge display update 
+* Issue: 901: optimization pass - map world 
+* Issue: 902: optimization pass - water hexas in Islands realm 
+* Issue: 903: update ES translations: Forest Cutscenes 
+* Issue: 904: update ES translations: Islands cutscenes 
+* Issue: 905: update ES translations: Clouds cutscenes 
+* Issue: 906: update ES translations: Glacier cutscenes 
+* Issue: 907: update ES translations: badges 
+* Issue: 908: update ES translations: map 
+* Issue: 909: update options screen background on main menu 
+* Issue: 910: enough notes in Forest to unlock all outfits 
+* Issue: 913: update ES translations: parrot world 
+* Issue: 914: use bounce force not jump force on disruptor touch 
+* Issue: 915: iterate jump physics 
+* Issue: 916: shorten Elder cutscene start time 
+* Issue: 917: additional h2o optimization: islands3 
+* Issue: 918: additional h2o optimization: islands4 
+* Issue: 919: additional h2o optimization: islands5 
+* Issue: 920: optimize snowflake texture 
+* Issue: 921: FR localizations: main menu 
+* Issue: 922: FR localizations: forest realm 
+* Issue: 923: FR localizations: clouds realm 
+* Issue: 924: FR localizations: islands realm 
+* Issue: 925: FR localizations: glacier realm 
+* Issue: 926: FR localizations: parrot world 
+* Issue: 927: FR localizations: ending 
+* Issue: 928: localize camera settings GUI image 
+* Issue: 930: Turn off scale on islands 1 note after owls leading to parrot 
+* Issue: 931: Rebind help me to d-pad button 
+* Issue: 939: end of level achievements should auto-progress 
+
 Release Candidate 1.0
 ===
 

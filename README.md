@@ -1,3 +1,44 @@
+Release Candidate 4/5 level demo
+===
+
+Ready for public release for the 5 level demo!
+---
+
+* Issue: 489: gather credits display names 
+* Issue: 933: Update controls screens to include updated rescue me controls 
+* Issue: 934: Break off demo branch 
+* Issue: 935: (demo) Add wings to end of Forest 1 
+* Issue: 936: (demo) unlock Clouds1, Islands4, and Glacier4 after wand on demo level 3 
+* Issue: 938: (demo) RC1 
+* Issue: 940: update Forest 1 Curno wordbubble with new controls image for help 
+* Issue: 942: (demo) add wand to forest 3 
+* Issue: 943: demo map 
+* Issue: 944: (demo) back to map from pause menu in demo should send you back to demo map, not main map 
+* Issue: 945: (demo) sky on demo map should change for new unlocked levels 
+* Issue: 946: update Forest2 
+* Issue: 947: after parrot world is completed check for parrots completed all levels should return to the map 
+* Issue: 948: investigate out of range error in Parrot intro cutscene 
+* Issue: 949: adjust jump line cast length 
+* Issue: 950: adjust Islands 6 rotation mover tag 
+* Issue: 951: fix floating glacier object with incorrect hide script 
+* Issue: 952: fix Glacier 4 start in demo map 
+* Issue: 953: update lava freeze word bubble 
+* Issue: 954: update water freeze word bubble 
+* Issue: 955: spiral effect for wand pickup prefabs 
+* Issue: 956: gracefully handle 16x9 AND 16x10 aspect ratios because Mac stuff 
+* Issue: 957: demo RC1 
+* Issue: 958: pre-respawn fx 
+* Issue: 959: (demo) wand pickup fx for demo 
+* Issue: 960: sky should change to last realm on return to map after level 
+* Issue: 961: move aviary savior badge to completion of the Parrot World level 
+* Issue: 962: back is clipping on badges menu ui 
+* Issue: 963: remove Aviary Savior check on Parrot rescue 
+* Issue: 964: update note pickup sound 
+* Issue: 965: search for controller on each relaunch 
+* Issue: 966: disable console for release builds 
+* Issue: 967: Switch wired pro controller support 
+* Issue: 968: bulletproof cutscene gui async errors 
+
 Release Candidate 1.2
 ===
 

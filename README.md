@@ -1,4 +1,4 @@
-Release Candidate 4/5 level demo
+Release Candidate 4 & 5 level demo
 ===
 
 Ready for public release for the 5 level demo!

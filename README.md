@@ -2,6 +2,8 @@ Release Candidate 4 & 5 level demo
 ===
 
 Ready for public release for the 5 level demo!
+
+11/11/2017
 ---
 
 * Issue: 489: gather credits display names 

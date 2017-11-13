@@ -40,6 +40,9 @@ Ready for public release for the 5 level demo!
 * Issue: 966: disable console for release builds 
 * Issue: 967: Switch wired pro controller support 
 * Issue: 968: bulletproof cutscene gui async errors 
+* Issue: 969: language selection prior to main menu start if none set 
+* Issue: 970: correct buttons for language selection confirmation on start up 
+* Issue: 971: update button text images for language selection 
 
 Release Candidate 1.2
 ===

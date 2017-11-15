@@ -3,7 +3,7 @@ Release Candidate 4 & 5 level demo
 
 Ready for public release for the 5 level demo!
 
-11/13/2017
+11/14/2017
 ---
 
 * Issue: 489: gather credits display names 
@@ -43,6 +43,7 @@ Ready for public release for the 5 level demo!
 * Issue: 969: language selection prior to main menu start if none set 
 * Issue: 970: correct buttons for language selection confirmation on start up 
 * Issue: 971: update button text images for language selection 
+* Issue: 972: gracefully handle help calls on map world prior to a level completion 
 
 Release Candidate 1.2
 ===

@@ -1,3 +1,23 @@
+5 level demo 1.1
+===
+
+incorporated a lot of feedback from the first release of the demo
+
+11-20-2017
+---
+
+* Issue: 973: convert interfaces to keys for mouse keys binds 
+* Issue: 974: escape key image on main menu for non-console builds 
+* Issue: 975: new key images for non-controller non-console builds 
+* Issue: 976: add resolution controls to main menu options for non-console builds 
+* Issue: 977: add full screen toggling to main menu options for non-console builds 
+* Issue: 978: localize resolution and full screen UI info to ES and FR 
+* Issue: 979: clean up text overlap issues in main menu UI 
+* Issue: 980: porportionalize fonts sizes to accommodate dynamic resolution changes 
+* Issue: 981: update strafing controls images 
+* Issue: 982: set default controls to strafing on 
+* Issue: 983: delay drums texture change until at minimum burst power 
+
 Release Candidate 4 & 5 level demo
 ===
 

@@ -1,3 +1,37 @@
+Version 1.0a
+===
+
+Pretty much ready for release on PC/Mac...
+
+1-3-2018
+---
+* Issue: 973: convert interfaces to keys for mouse keys binds 
+* Issue: 974: escape key image on main menu for non-console builds 
+* Issue: 975: new key images for non-controller non-console builds 
+* Issue: 976: add resolution controls to main menu options for non-console builds 
+* Issue: 977: add full screen toggling to main menu options for non-console builds 
+* Issue: 978: localize resolution and full screen UI info to ES and FR 
+* Issue: 979: clean up text overlap issues in main menu UI 
+* Issue: 980: porportionalize fonts sizes to accommodate dynamic resolution changes 
+* Issue: 981: update strafing controls images 
+* Issue: 982: set default controls to strafing on 
+* Issue: 983: delay drums texture change until at minimum burst power 
+* Issue: 984: dynamic resolution support - including 4K 
+* Issue: 985: optimize particles FX 
+* Issue: 986: only release glacier level after islands and clouds level are completed (demo) 
+* Issue: 987: itch.io build (Mac) 
+* Issue: 988: itch.io build (PC) 
+* Issue: 992: update controls - lBumper burst 
+* Issue: 993: update controls - rBumper jump 
+* Issue: 994: update controls - a button call for help 
+* Issue: 995: update controls - b button change outfit 
+* Issue: 996: update interface images for control updates 
+* Issue: 997: y or triangle for Curno help. Update wordbubbles too. 
+* Issue: 998: cutscene handler script switch UI images update 
+* Issue: 999: only show end cutscene after wand level if game not already completed 
+* Issue: 1000: update switch controller wordbubbles 
+* Issue: 1001: utomik build 
+
 5 level demo 1.1
 ===
 

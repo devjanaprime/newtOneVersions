@@ -1,3 +1,33 @@
+Version 1.5b
+===
+
+Live on [itch.io](https://devnari.itch.io/newtone) & [Utomik](https://www.uomik.com) as of 7/7/2018
+
+* Issue: 991: Microsoft GDC submission 
+* Issue: 1002: update end schreen logo image with newer hi def version 
+* Issue: 1004: update controls to accommodate two binds 
+* Issue: 1005: implement new controls UI 
+* Issue: 1006: implement updated wordbubbles to accommodate alternative controls 
+* Issue: 1007: replaying parrot world should not trigger end cutscene 
+* Issue: 1008: double check Newt orientation on all levels 
+* Issue: 1009: launch parrot world from main menu if appropriate 
+* Issue: 1010: updated Utomik 
+* Issue: 1011: update credits 
+* Issue: 1012: Add controls type toggle to pause menu 
+* Issue: 1014: Islands 3 altar has collision 
+* Issue: 1015: Islands 3 note under purple owls before wand. Right after wings. 
+* Issue: 1016: Add check point near statue on Forrest 3 
+* Issue: 1017: Empty billboard in map world if using PS4 controller on mac 
+* Issue: 1018: Forest 4 Curnos should say owls first and almost at the end last. Switch last 2 
+* Issue: 1020: ESC from options menu should send you back to main menu and not exit game 
+* Issue: 1022: Last two word bubbles on Forrest 1 are not rendering correctly 
+* Issue: 1023: Update pause menu GUI 
+* Issue: 1024: Invert default on alternative controls 
+* Issue: 1027: Ari wants to add a new set of owls to Forest 1 
+* Issue: 1028: Update first float word bubble to simply say hold and not insinuate a double tap 
+* Issue: 1029: Disable scale out on first hexa after initial jump on Forest 6 
+* Issue: 1032: Get Martin what he needs for Steam 
+
 Version 1.0a
 ===
 

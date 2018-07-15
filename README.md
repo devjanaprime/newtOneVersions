@@ -1,7 +1,7 @@
 Version 1.5b
 ===
 
-Live on [itch.io](https://devnari.itch.io/newtone) & [Utomik](https://www.uomik.com) as of 7/7/2018
+Live on [itch.io](https://devnari.itch.io/newtone) & [Utomik](https://www.uomik.com) as of 7/11/2018
 
 * Issue: 991: Microsoft GDC submission 
 * Issue: 1002: update end schreen logo image with newer hi def version 
